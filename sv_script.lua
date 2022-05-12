@@ -1,8 +1,8 @@
-//Оружия которое надо запретить
+//Оружие которое надо запретить/Weapons to be banned
 local weapon = {
     ['weapon_357'] = true
 }
-//Работа которой мы запрещаем перечисленные выше оружия
+//Работа которой мы запрещаем перечисленные выше оружия/The work of which we ban the weapons listed above
 local job = {
     [TEAM_CITIZEN] = true
 }
